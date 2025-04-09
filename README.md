@@ -20,6 +20,4 @@ Outputs each verse into a .csv file, one verse per line.
 ## Tools Used
 Python (with os, shutil, csv, and BeautifulSoup for HTML parsing)
 
-shutil.copy() for file management
-
 BeautifulSoup for extracting verse text from HTML
